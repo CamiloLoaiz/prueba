@@ -21,3 +21,10 @@ git log: muestra todos los compromisos realizados
 git branch <NombreDeLaRama>: Crea una rama
 	--list: Muestra todas las ramas
 git checkout <NombreDeLARama>: cambiar de rama
+
+
+
+
+git push <nombre-remoto> <nombre-de-tu-rama>
+git pull origin main --allow-unrelated-histories
+//para arreglar problema de hisories
